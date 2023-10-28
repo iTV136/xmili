@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/baishi.txt",
+      "url": "./lib/麒麟.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "🅱️追剧影院|T热播 QQ 2317792363",
+      "name": "🅱️生哥影院|T热播 QQ 2317792363",
       "type": 3,
       "api": "./lib/Api.js",
       "searchable": 0,
@@ -623,127 +623,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩音乐.json"
-    },
-    {
-      "key": "小灯塔科学",
-      "name": "🌏小灯塔科学",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/小灯塔科学.json"
-    },
-    {
-      "key": "小灯塔地理",
-      "name": "🌏小灯塔地理",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/小灯塔地理.json"
-    },
-    {
-      "key": "小灯塔百科",
-      "name": "🌏小灯塔百科",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/小灯塔百科.json"
-    },
-    {
-      "key": "小灯塔国学",
-      "name": "🌏小灯塔国学",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/小灯塔国学.json"
-    },
-    {
-      "key": "幼儿教育",
-      "name": "🅱幼小｜衔接",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩幼小.json"
-    },
-    {
-      "key": "哔哩小学",
-      "name": "🅱小学｜教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩小学.json"
-    },
-    {
-      "key": "哔哩初中",
-      "name": "🅱初中｜教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩初中.json"
-    },
-    {
-      "key": "哔哩高中",
-      "name": "🅱高中｜教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩高中.json"
-    },
-    {
-      "key": "兴趣健身",
-      "name": "🅱兴趣｜健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩健身.json"
-    },
-    {
-      "key": "相声小品",
-      "name": "🅱相声｜小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩相声.json"
-    },
-    {
-      "key": "天下美食",
-      "name": "🅱天下｜美食",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩美食.json"
-    },
-    {
-      "key": "戏曲杂苑",
-      "name": "🅱戏曲｜杂苑",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔哩戏曲.json"
     }
+   
   ],
   "parses": [
     {
