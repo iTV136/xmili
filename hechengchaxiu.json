@@ -37,17 +37,14 @@
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482"
     },
     {
-      "key": "短剧",
-      "name": "🚛一起看┃短剧",
+      "key": "yqkan_open",
+      "name": "🛁┃短剧┃2K",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "短剧"
-      ],
-      "jar": "./jar/maolv.jar"
+      "jar": "./lib/OpenSpider.jar"
     },
     {
       "key": "短剧网",
