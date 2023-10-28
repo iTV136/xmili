@@ -37,6 +37,40 @@
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482"
     },
     {
+      "key": "短剧",
+      "name": "🚛一起看┃短剧",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "短剧"
+      ],
+      "jar": "./lib/jar/maolv.jar"
+    },
+    {
+      "key": "短剧网",
+      "name": "🚛短剧网",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/duanju.json"
+    },
+    {
+      "key": "PT",
+      "name": "🚛葡萄┃短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "数组": "class=\"stui-vodlist__box&&</li",
+        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+      }
+    },
+    {
       "key": "Wogg",
       "name": "🅱️玩偶哥哥|T追剧",
       "type": 3,
