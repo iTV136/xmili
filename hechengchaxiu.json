@@ -47,7 +47,7 @@
       "categories": [
         "短剧"
       ],
-      "jar": "./lib/jar/maolv.jar"
+      "jar": "./jar/maolv.jar"
     },
     {
       "key": "短剧网",
