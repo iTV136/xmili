@@ -50,6 +50,8 @@
       "filterable": 1,
       "ext": "https://www.czzy88.com/"
     },
+    {"key":"csp_笑笑","name":"🅱️笑笑影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/笑笑影视.json"},
+
     {
       "key": "csp_乐猪",
       "name": "🅱️乐猪影视|T追剧",
@@ -170,6 +172,16 @@
       "filterable": 1,
       "ext": "./hccx/新视觉影视.json"
     },
+    {"key":"360","name":"🅱️360 官源|T追剧","type":3,"api":"csp_360","searchable":1,"filterable":1,"changeable":1},
+
+{"key":"奇艺","name":"🅱️奇艺官源|T追剧","type":3,"api":"csp_IQIYI","searchable":1,"filterable":1,"changeable":1},
+
+{"key":"腾讯","name":"🅱️腾讯官源|T追剧","type":3,"api":"csp_QQ","searchable":1,"filterable":1,"changeable":1},
+
+{"key":"芒果","name":"🅱️芒果官源|T追剧","type":3,"api":"csp_MGTV","searchable":1,"filterable":1,"changeable":1},
+
+{"key":"优酷","name":"🅱️优酷官源|T追剧","type":3,"api":"csp_YOUKU","searchable":1,"filterable":1,"changeable":1},
+
     {
       "key": "csp_午夜",
       "name": "🅱️午夜影视|T追剧",
