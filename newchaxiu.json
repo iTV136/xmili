@@ -11,6 +11,16 @@
   ],
   "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
   "sites": [
+  {
+          "key": "js_豆瓣热播",
+                "name": "🅱️追剧影院|T热播",
+                      "type": 3,
+                            "api": "./hccx/Api.js",
+                                  "searchable": 0,
+                                        "quickSearch": 0,
+                                              "filterable": 0,
+                                                    "ext": "./hccx/Doubanrebo.js"
+                                                        },
   
     { "key": "AliYunPan",
       "name": "🅱️云盘登录|T签到",
