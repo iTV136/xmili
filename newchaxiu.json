@@ -15,11 +15,11 @@
       "key": "js_豆瓣热播",
       "name": "🅱️追剧影院|T热播",
       "type": 3,
-      "api": "./hccx/Api.js",
+      "api": "./lib/Api.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./hccx/Doubanrebo.js"
+      "ext": "./lib/Doubanrebo.js"
     },
     { "key": "AliYunPan",
       "name": "🅱️云盘登录|T签到",
@@ -445,7 +445,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./hccx/短剧网.json"
+      "ext": "./lib/短剧网.json"
     },
     {
       "key": "哔哩音乐",
