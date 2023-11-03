@@ -11,7 +11,7 @@
   ],
   "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
   "sites": [
-    {
+   {
       "key": "js_豆瓣热播",
       "name": "🅱️追剧影院|T热播",
       "type": 3,
@@ -21,8 +21,7 @@
       "filterable": 0,
       "ext": "./hccx/Doubanrebo.js"
     },
-    {
-      "key": "AliYunPan",
+    { "key": "AliYunPan",
       "name": "🅱️云盘登录|T签到",
       "type": 3,
       "api": "csp_AliYunPan",
@@ -101,46 +100,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./hccx/疯狗影视.json"
-    },
-    {
-      "key": "csp_爱看",
-      "name": "🅱️爱看影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/爱看影视.json"
-    },
-    {
-      "key": "csp_七新",
-      "name": "🅱️七新影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/七新影视.json"
-    },
-    {
-      "key": "csp_超前",
-      "name": "🅱️超前点播|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/超前B站.json"
-    },
-    {
-      "key": "csp_午舞",
-      "name": "🅱️午舞影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/五五影视.json"
     },
     {
       "key": "csp_师兄",
@@ -457,45 +416,7 @@
       "filterable": 1,
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
-    {
-      "key": "cctv",
-      "name": "📺央视｜大全",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 0,
-      "filterable": 0,
-      "ext": "./hccx/央视大全.json"
-    },
-    {
-      "key": "py_cctv_少儿",
-      "name": "📺央视｜少儿",
-      "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./hccx/py_央视少儿.py"
-    },
-    {
-      "key": "央视经典",
-      "name": "📺央视｜经典",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/哔哩经典.json"
-    },
-    {
-      "key": "py_cctv_企鹅",
-      "name": "📺体育｜直播",
-      "type": 3,
-      "api": "py_cctv_full",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./hccx/py_企鹅体育.py"
-    },
+   
     {
       "key": "mtv_xp_动漫巴士",
       "name": "🐼动漫丨巴士",
@@ -545,117 +466,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./hccx/小灯塔科学.json"
-    },
-    {
-      "key": "小灯塔地理",
-      "name": "🌏小灯塔地理",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/小灯塔地理.json"
-    },
-    {
-      "key": "小灯塔百科",
-      "name": "🌏小灯塔百科",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/小灯塔百科.json"
-    },
-    {
-      "key": "小灯塔国学",
-      "name": "🌏小灯塔国学",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/小灯塔国学.json"
-    },
-    {
-      "key": "幼儿教育",
-      "name": "🅱幼小｜衔接",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/哔哩幼小.json"
-    },
-    {
-      "key": "哔哩小学",
-      "name": "🅱小学｜教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/哔哩小学.json"
-    },
-    {
-      "key": "哔哩初中",
-      "name": "🅱初中｜教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/哔哩初中.json"
-    },
-    {
-      "key": "哔哩高中",
-      "name": "🅱高中｜教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/哔哩高中.json"
-    },
-    {
-      "key": "兴趣健身",
-      "name": "🅱兴趣｜健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/哔哩健身.json"
-    },
-    {
-      "key": "相声小品",
-      "name": "🅱相声｜小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/哔哩相声.json"
-    },
-    {
-      "key": "天下美食",
-      "name": "🅱天下｜美食",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/哔哩美食.json"
-    },
-    {
-      "key": "戏曲杂苑",
-      "name": "🅱戏曲｜杂苑",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./hccx/哔哩戏曲.json"
     }
+    
   ],
   "parses": [
     {
