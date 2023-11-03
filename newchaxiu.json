@@ -11,16 +11,7 @@
   ],
   "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
   "sites": [
-   {
-      "key": "js_豆瓣热播",
-      "name": "🅱️追剧影院|T热播",
-      "type": 3,
-      "api": "./lib/Api.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./js/豆瓣.js"
-    },
+  
     { "key": "AliYunPan",
       "name": "🅱️云盘登录|T签到",
       "type": 3,
@@ -29,6 +20,16 @@
       "filterable": 0,
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
+    {
+            "key": "csp_woggcli",
+                  "name": "✨玩偶┃T4T4K",
+                        "type": 4,
+                              "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+                                    "searchable": 1,
+                                          "quickSearch": 1,
+                                                "filterable": 1
+                                                    },
+    }
     {
       "key": "Wogg",
       "name": "🅱️玩偶哥哥|T追剧",
