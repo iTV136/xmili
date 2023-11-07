@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//官方网站 http://mft.hk
+
 {
-	"spider": "./jar/Yoursmile.jar;md5;C21BD45F0616FE65123D4C67C97C7380","./jar/fix1102.jarmd5;a08a2fee3ccc85c05a7a584c9c4d1cf3"
+	"spider": "./jar/Yoursmile.jar;md5;C21BD45F0616FE65123D4C67C97C7380",
     	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         	"sites":[
@@ -70,17 +70,7 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
     },
-    {
-       "key": "南瓜",
-            "name": "南瓜┃App",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1,
-            "ext": ""
-    },
+    
     {
       "key": "极光",
       "name": "☀极光",
