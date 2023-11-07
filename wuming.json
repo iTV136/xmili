@@ -78,7 +78,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "null$$$1",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/pg.jar"
+      "jar": "./jar/fix1102.jar"
     },
     {
       "key": "极光",
