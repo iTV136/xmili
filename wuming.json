@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //官方网站 http://mft.hk
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;C21BD45F0616FE65123D4C67C97C7380",
+	"spider": "./jar/Yoursmile.jar;md5;C21BD45F0616FE65123D4C67C97C7380",
     	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         	"sites":[
