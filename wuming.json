@@ -1,4 +1,5 @@
 {
+  "warningText": "我就是一个蛋QQ: 2317792363, 祝君观影愉快",
   "spider": "./jar/Yoursmile.jar;md5;C21BD45F0616FE65123D4C67C97C7380",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
@@ -547,17 +548,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/斗鱼直播.js"
     },
-    {
-      "key": "drpy_js_有声小说吧",
-      "name": "有声小说吧",
-      "type": 3,
-      "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js",
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/有声小说吧.js"
-    },
+   
     {
       "key": "drpy_js_88看球",
       "name": "88看球",
