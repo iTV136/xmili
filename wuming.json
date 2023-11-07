@@ -3,8 +3,8 @@
   "spider": "./jar/Yoursmile.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
-    "warningText": "我就是一个蛋QQ：2317792363 祝君观影愉快",
-    {
+  "warningText": "我就是一个蛋QQ：2317792363, 祝君观影愉快",
+   {
       "key": "drpy_js_优酷1",
       "name": "🐥优酷蛋(官源)",
       "type": 3,
