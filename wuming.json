@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //官方网站 http://mft.hk
 {
-	"spider": "./jar/Yoursmile.jar;md5;C21BD45F0616FE65123D4C67C97C7380",
+	"spider": "./jar/Yoursmile.jar;md5;C21BD45F0616FE65123D4C67C97C7380","./jar/fix1102.jarmd5;a08a2fee3ccc85c05a7a584c9c4d1cf3"
     	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
         	"sites":[
@@ -80,7 +80,6 @@
             "playerType": 2,
             "filterable": 1,
             "ext": ""
-      "jar": "./jar/fix1102.jar"
     },
     {
       "key": "极光",
