@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "drpy_js_优酷1",
-      "name": "🐥优酷蛋(官源) 我就是一个蛋QQ: 2317792363, 祝君观影愉快",
+      "name": "🐥生哥真酷(生哥电影) 生哥影视QQ: 2317792363, 祝君观影愉快",
       "type": 3,
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
@@ -13,7 +13,7 @@
     },
     {
       "key": "搜狗2",
-      "name": "🐥搜狗蛋(官源)",
+      "name": "🐥搜狗蛋(生哥电影)",
       "type": 3,
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
@@ -21,7 +21,7 @@
     },
     {
       "key": "腾讯2",
-      "name": "🐥腾讯蛋(官源)",
+      "name": "🐥腾讯蛋(生哥电影)",
       "type": 3,
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
@@ -29,7 +29,7 @@
     },
     {
       "key": "爱奇异",
-      "name": "🐥奇艺蛋(官源)",
+      "name": "🐥奇艺蛋(生哥电影)",
       "type": 3,
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
