@@ -878,7 +878,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "央视,#genre#",
+      "url": "https://codeberg.org/fuxiaoyu/lovetv/raw/branch/main/zhib.json",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
