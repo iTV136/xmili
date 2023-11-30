@@ -874,12 +874,15 @@
       }
     }
   ],
-  "lives": [
+   "lives": [
     {
       "name": "live",
+      "url": "https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt",
       "type": 0,
-      "url": "https://codeberg.org/fuxiaoyu/lovetv/raw/branch/main/zhib.json",
-      "epg": "http://epg.112114.eu.org"
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "doh": [
