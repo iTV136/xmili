@@ -35,18 +35,9 @@
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/iqy.js"
     },
-    {
-      "key": "Wogg",
-      "name": "🐥阿里|玩偶蛋蛋",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/pg.jar",
-      "api": "csp_Wogg",
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://wogg.xyz/"
-    },
+    {"key": "Woal","name": "🎦玩偶|阿里",
+    "type": 3,"api": "csp_Wogg","quickSearch": 1,"changeable": 1,"filterable": 1,"ext": "./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1","jar": "./lib/pg.jar"},
+    
      {     
       "key": "csp_WoGG",
       "name": "🐥玩偶蛋蛋┃4K弹幕.饭",
