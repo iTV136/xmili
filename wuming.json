@@ -43,7 +43,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ".lib/深蓝影视.json"
+      "ext": "./lib/深蓝影视.json"
     },
     {
       "key": "csp_米爱",
@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ".lib/米爱影视.json"
+      "ext": "./lib/米爱影视.json"
     },
     {
       "key": "csp_土豪",
@@ -63,7 +63,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ".lib/土豪影视.json"
+      "ext": "./lib/土豪影视.json"
     },
     {"key": "Woal","name": "🎦玩偶|阿里",
     "type": 3,"api": "csp_Wogg","quickSearch": 1,"changeable": 1,"filterable": 1,"ext": "./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1","jar": "./lib/pg.jar"},
