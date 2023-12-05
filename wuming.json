@@ -124,6 +124,16 @@
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
     {
+      "key": "Czspp",
+      "name": "🅱️厂长影视|T追剧",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czzy88.com/"
+    },
+    {
       "key": "影探4K",
       "name": "🌾影探┃影视",
       "type": 3,
