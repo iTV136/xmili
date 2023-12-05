@@ -6,7 +6,7 @@
     {"key":"豆瓣",
     "name":"生哥影视 QQ: 2317792363, 祝君观影愉快",
     "type":3,
-    "api":"https://pan.shangui.cc/f/2xj8fx/drpy2.min.js",
+    "api":"./lib/drpy2.min.js",
     "searchable":0,"quickSearch":0,"filterable":0,
     "ext":"https://pan.shangui.cc/f/P174CK/douban.js"},
     {
