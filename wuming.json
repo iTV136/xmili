@@ -8,7 +8,7 @@
     "type":3,
     "api":"./lib/drpy2.min.js",
     "searchable":0,"quickSearch":0,"filterable":0,
-    "ext":"./douban.js"},
+    "ext":"https://pan.shangui.cc/f/P174CK/douban.js"},
     {
       "key": "drpy_js_优酷1",
       "name": "🐥生哥真酷(生哥电影) 生哥影视QQ: 2317792363, 祝君观影愉快",
