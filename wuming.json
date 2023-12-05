@@ -138,6 +138,16 @@
       "ext": "https://www.czzy88.com/"
     },
     {
+      "key": "csp_师兄",
+      "name": "🅱️师兄影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/大师兄影视.json"
+    },
+    {
       "key": "影探4K",
       "name": "🌾影探┃影视",
       "type": 3,
