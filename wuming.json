@@ -7,6 +7,7 @@
       "key": "js_豆瓣热播",
       "name": "生哥影视QQ: 2317792363, 祝君观影愉快",
       "type": 3,
+      "jar":./HeChengChaXiu.jar
       "api": "./hccx/Api.js",
       "searchable": 0,
       "quickSearch": 0,
