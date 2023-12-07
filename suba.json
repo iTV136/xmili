@@ -1,4 +1,8 @@
 {"urls":[
+ {"name": "自用秒播", "url": "https://codeberg.org/whcx/ck/raw/branch/main/m.json"},
+ {"name": "自用速播","url": "https://codeberg.org/whcx/ck/raw/branch/main/x.json"},
+ {"name": "自用精选","url": "https://codeberg.org/whcx/ck/raw/branch/main/cx.json"},
+ {"name": "高清采集","url":"https://codeberg.org/haoyang/tvbox/raw/branch/main/xh.json"},
  {"name": "🎯️ 巧姐线路 🎯","url": "http://cdn.qiaoji8.com/tvbox.json"},
  {"name": "🎯 豆豆线路 🎯","url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"},
  {"name": "🎯 业余打发在线接口🎯","url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"},
