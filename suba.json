@@ -1,4 +1,5 @@
 {"urls":[
+ {"name": "无名", "url": "https://codeberg.org/fuxiaoyu/lovetv/raw/branch/main/wuming.json"},
  {"name": "自用秒播", "url": "https://codeberg.org/whcx/ck/raw/branch/main/m.json"},
  {"name": "自用速播","url": "https://codeberg.org/whcx/ck/raw/branch/main/x.json"},
  {"name": "自用精选","url": "https://codeberg.org/whcx/ck/raw/branch/main/cx.json"},
