@@ -45,19 +45,7 @@
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/iqy.js"
     },
-    {
-      "key": "南瓜",
-      "name": "🇹┃南瓜2K┃秒播",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
-      
-      "filterable": 1,
-      "ext": "https://www.maolvys.com/"
-    },     
+    {"key": "南瓜","name": "🎦南瓜┃2K","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/nangua.js"},
      {
       "key": "车妹",
       "name": "🇹┃车妹2K┃秒播",
