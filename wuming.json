@@ -77,6 +77,14 @@
       "filterable": 1,
       "ext": "./lib/米爱影视.json"
     },
+    {"key": "csp_黑狐",
+    "name": "🎦黑狐┃秒播",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./lib/heihu.json"},
     {
       "key": "csp_土豪",
       "name": "🍃土豪┃影视",
