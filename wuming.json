@@ -174,7 +174,14 @@
       "changeable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
-    
+    {"key":"csp_Kunyu77",
+    "name":"👒七七┃影院",
+    "type":3,
+    "api":"csp_Kunyu77",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
     
     {
       "key": "影探4K",
