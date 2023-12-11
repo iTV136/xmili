@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "Czspp",
-      "name": "生哥影视QQ: 2317792363, 祝君观影愉快",
+      "name": "💘生哥影视QQ: 2317792363, 祝君观影愉快",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -15,7 +15,7 @@
     },
     {
       "key": "drpy_js_优酷1",
-      "name": "🐥生哥真酷(生哥电影) 生哥影视QQ: 2317792363, 祝君观影愉快",
+      "name": "💘生哥真酷(生哥电影) 生哥影视QQ: 2317792363, 祝君观影愉快",
       "type": 3,
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
@@ -112,7 +112,7 @@
       "ext": "./lib/米爱影视.json"
     },
     {"key": "csp_黑狐",
-    "name": "🎦黑狐┃秒播",
+    "name": "🍃黑狐┃秒播",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable":1,
@@ -182,7 +182,7 @@
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
     {"key":"csp_Kunyu77",
-    "name":"👒七七┃影院",
+    "name":"🌾七七┃影院",
     "type":3,
     "api":"csp_Kunyu77",
     "searchable":1,
@@ -493,10 +493,10 @@
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json"
     },
     {
-      "key": "360",
-      "name": "💘爱官方",
+      "key": "360影视",
+      "name": "💘360影视",
       "type": 3,
-      "api": "csp_SP33",
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
