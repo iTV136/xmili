@@ -51,6 +51,7 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/nangua.js"
         },
+        {"key":"csp_Hmys","name":"🦉河马","type":3,"api":"csp_Hmys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.jmzp.net.cn"},
         {
             "key": "车妹",
             "name": "🎦┃车妹2K┃秒播",
