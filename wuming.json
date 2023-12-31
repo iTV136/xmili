@@ -55,6 +55,7 @@
       "key": "亮亮",
       "name": "💡亮亮┃APP",
       "type": 3,
+       "jar": "./lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
       "ext": "http://api.jialiangos.com:65533/api.php/app/",
       "searchable": 1,
