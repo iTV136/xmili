@@ -46,14 +46,14 @@
         },
         {
             "key": "南瓜",
-            "name": "🎦南瓜┃2K",
+            "name": "💫南瓜┃2K",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/nangua.js"
         },
         {
             "key": "亮亮",
-            "name": "旗帜亮亮┃APP",
+            "name": "💫亮亮┃APP",
             "type": 3,
             "jar": "./lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_AppYsV2",
@@ -64,7 +64,7 @@
         },
         {
             "key": "赞赞",
-            "name": "旗帜赞赞┃切片",
+            "name": "💫赞赞┃切片",
             "type": 3,
             "jar": "./lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_AppYsV2",
@@ -75,7 +75,7 @@
         },
         {
             "key": "加速",
-            "name": "旗帜加速┃APP",
+            "name": "💫加速┃APP",
             "type": 3,
             "jar": "./lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_AppYsV2",
@@ -85,7 +85,7 @@
         },
         {
             "key": "03影院",
-            "name": "03影院┃XBPQ",
+            "name": "💫03影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
@@ -110,7 +110,7 @@
         },
         {
             "key": "乌鸦",
-            "name": "乌鸦影视┃XBPQ",
+            "name": "💫乌鸦影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1224,7 +1224,7 @@
     ],
     "doh": [
         {
-            "name": "https://codeberg.org/fuxiaoyu/lovetv/raw/branch/main/zhib.json",
+            "name": "https://gitee.com/fuxiy/lovetv/raw/main/zhib.json",
             "url": "https://dns.google/dns-query",
             "ips": [
                 "8.8.4.4",
