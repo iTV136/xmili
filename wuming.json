@@ -7,12 +7,10 @@
             "name": "💘生哥影视QQ: 2317792363, 祝君观影愉快",
             "type": 3,
             "api": "csp_Czsapp",
-            "playerType":2,
-            "changeable":0,
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "https://www.czzy88.com/",
-            "filterable": 1
+            "filterable": 0,
+            "ext": "https://www.czzy88.com/"
         },
         {
             "key": "drpy_js_优酷1",
