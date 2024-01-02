@@ -197,17 +197,6 @@
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
         {
-            "key": "csp_Cs1369",
-            "name": "🎀九六",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "深蓝影视",
             "name": "🍃深蓝┃秒播",
             "type": 3,
