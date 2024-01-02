@@ -7,6 +7,8 @@
             "name": "💘生哥影视QQ: 2317792363, 祝君观影愉快",
             "type": 3,
             "api": "csp_Czsapp",
+            "playerType":2,
+            "changeable"0,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
