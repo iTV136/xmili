@@ -55,6 +55,15 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
         },
         {
+            "key": "csp_YQKan",
+            "name": "🌎一起看",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "南瓜",
             "name": "💫南瓜┃|App",
             "type": 3,
