@@ -2,7 +2,7 @@
     "spider": "./jar/Yoursmile.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
-         {
+        {
             "key": "Czspp",
             "name": "💘厂长|生哥影视QQ: 2317792363, 祝君观影愉快",
             "type": 3,
@@ -28,7 +28,7 @@
             "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
             "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/iqy.js"
         },
-         {
+        {
             "key": "drpy_js_优酷1",
             "name": "💘优酷|生哥影视",
             "type": 3,
@@ -44,7 +44,17 @@
             "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
             "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/sougou.js"
         },
-         {
+        {
+            "key": "csp_WoGG",
+            "name": "👽玩偶┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+        },
+        {
             "key": "南瓜",
             "name": "💫南瓜┃|App",
             "type": 3,
@@ -135,7 +145,7 @@
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
         },
-         {
+        {
             "key": "骑骑",
             "name": "🌾骑骑┃秒播",
             "type": 3,
@@ -157,7 +167,7 @@
             "changeable": 1,
             "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
         },
-         {
+        {
             "key": "影探4K",
             "name": "🌾影探┃影视",
             "type": 3,
@@ -177,7 +187,7 @@
             "filterable": 1,
             "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
         },
-         {
+        {
             "key": "极光",
             "name": "🐥极光蛋蛋",
             "type": 3,
@@ -197,7 +207,7 @@
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
         },
-         {
+        {
             "key": "03影院",
             "name": "🎦03影院┃XBPQ",
             "type": 3,
@@ -449,7 +459,7 @@
                 "链接": "href=\"&&\""
             }
         },
-         {
+        {
             "key": "酷奇MV",
             "name": "🎦酷奇MV",
             "type": 3,
@@ -614,7 +624,7 @@
                 "欧美综艺"
             ]
         },
-         {
+        {
             "key": "新片热播",
             "name": "⚡爱热播",
             "type": 1,
@@ -853,7 +863,7 @@
             "filterable": 0,
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/斗鱼直播.js"
         },
-         {
+        {
             "key": "drpy_js_88看球",
             "name": "88看球",
             "type": 3,
@@ -943,7 +953,7 @@
             "filterable": 1,
             "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"
         }
-      ],
+    ],
     "parses": [
         {
             "name": "聚合1",
