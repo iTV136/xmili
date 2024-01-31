@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/fuxiy/lovetv/raw/main/jar/cary.jar",
+    "spider": "./jar/cary.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
